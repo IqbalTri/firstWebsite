@@ -1,5 +1,3 @@
-button = document.getElementById('tampilan');
-
-function button(){
-    alert("dm ig gw aja brow, klo wa ytta aja muehehehehe")
-};
+function myAlert(){
+    alert("dm gw aja mueehheh");
+}
